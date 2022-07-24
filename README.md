@@ -8,4 +8,4 @@ The Project is to find secure and malcious websites using machine learning which
 #Preffrered classications:
 SVC, Logestic regression,Random forest,decision tree,Naives based,Decision tree
 
-Many algoritms are time consuming as dataset containg lakhs of hours 
+Many algoritms are time consuming as dataset containg lakhs of urls.
