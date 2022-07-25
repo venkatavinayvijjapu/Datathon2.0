@@ -4,7 +4,7 @@ The Project is to find secure and malcious websites using machine learning which
 1)dataset
 2)Pandas
 3)Count vectorizer
-4)TfiF vectorizer
+4)TfidF vectorizer
 5)python
 
 Many algoritms are time consuming as dataset containg lakhs of urls.
