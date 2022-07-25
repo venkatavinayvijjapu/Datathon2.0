@@ -11,9 +11,14 @@ Many algoritms are time consuming as dataset containg lakhs of urls.
 
 #Algoritms:
  # 1) Count Vectorization:
-           This algorithmn is part of sklearn in feature extraction used to tokenize based on the frequency of the word in a sentence For eg: In the sentence "Hi Gmrit,Gmrit is in Razam. Here Gmr is repeated 2 times and Razam is repeated 1 time and stop words are removed.
-# 2) TfIf Vectorization:
-            This algorithmn is part of sklearn in feature extraction similar to Count vectorization but the only differnce is that we use Tf/If ratio inn place count or frequency of word in a sentence.
+           This algorithmn is part of sklearn in feature extraction used to 
+           tokenize based on the frequency of the word in a sentence.
+           For eg: In the sentence "Hi Gmrit,Gmrit is in Razam. 
+           Here Gmr is repeated 2 times and Razam is repeated 1 time and stop words are removed.
+# 2) TfIdf Vectorization:
+            This algorithmn is part of sklearn in feature extraction similar 
+            to Count vectorization but the only differnce is that we use Tf/If 
+            ratio inn place count or frequency of word in a sentence.
  
  #  Classifiers:
   As the data given is very huge it takes more time for training and fitting while there are few algoritmns which are used that gives good accuracy and executes fast.
