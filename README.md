@@ -8,7 +8,8 @@ The Project is to find secure and malcious websites using machine learning which
 5)python
 
 Many algoritms are time consuming as dataset containg lakhs of urls.
-
+Phishing:
+    Phising is a tool used to install malware to any other device, hacking while these commonly look like similar famous webites but differ in domain and subdomain or there might be an addition specific characters.
 #Algoritms:
  # 1) Count Vectorization:
            This algorithmn is part of sklearn in feature extraction used to 
@@ -34,7 +35,7 @@ Many algoritms are time consuming as dataset containg lakhs of urls.
   3) Random forest with n_estimators =100 takes lots of time
   
   In case if we find modele not found we need to intall using pip
-  # pip install sklearn
+   # pip install sklearn
   To make use of it
-  # from sklearn.feature_extraction.text import CountVectorizer
-  # from sklearn.feature_extraction.text import TfidfVectorizer
+  1) from sklearn.feature_extraction.text import CountVectorizer
+  2) from sklearn.feature_extraction.text import TfidfVectorizer
